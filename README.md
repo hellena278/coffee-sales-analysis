@@ -1,4 +1,6 @@
 <img width="1482" height="863" alt="Screenshot 2026-06-14 001216" src="https://github.com/user-attachments/assets/299f2282-a1e7-41d1-9b7e-d4f7120308e5" />
+TO INTERACT WITH THIS DASHBOARD :
+https://public.tableau.com/views/Coffeesalesdashboard_17813669589070/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 End-to-end data pipeline from raw CSV to interactive dashboard
 built on Databricks using PySpark and SQL.
 
