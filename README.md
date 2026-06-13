@@ -7,13 +7,11 @@ built on Databricks using PySpark and SQL.
 ## Workflow
 Raw CSV → Bronze → Silver → Star Schema → Analysis → Dashboard
 
-## Business Analysis
-Answered 4 key business questions:
-
--Sales Trended Over Time
-- Busiest Days of the Week
-- Most Popular Time of Day
-- Top Products by Revenue
+## Business Questions Explored
+• How did sales trend over time?
+• Which days generate the most transactions?
+• What are the busiest hours of the day?
+• Which products generate the highest revenue?
 
 ## Key Findings
 - Revenue grew +104% from January to June 2023
