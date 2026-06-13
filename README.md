@@ -8,17 +8,17 @@ built on Databricks using PySpark and SQL.
 Raw CSV → Bronze → Silver → Star Schema → Analysis → Dashboard
 
 ## Business Questions Explored
-• How did sales trend over time?
-• Which days generate the most transactions?
-• What are the busiest hours of the day?
-• Which products generate the highest revenue?
+- How did sales trend over time?
+- Which days generate the most transactions?
+- What are the busiest hours of the day?
+- Which products generate the highest revenue?
 
 ## Key Findings
-- Revenue grew +104% from January to June 2023
-- Friday is the busiest day for transactions
-- Morning rush 8–10 AM drives 37% of daily revenue
-- Barista Espresso is the top revenue driver at $91.4K
-- Brewed Chai Tea has the highest transaction count
+- Revenue increased by 104% from January to June 2023.
+- Friday recorded the highest transaction volume.
+- The 8 AM–10 AM period generated approximately 37% of daily revenue.
+- Barista Espresso was the highest revenue-generating product ($91.4K).
+- Brewed Chai Tea recorded the highest transaction count.
 
 
 | Databricks | Cloud data platform |
